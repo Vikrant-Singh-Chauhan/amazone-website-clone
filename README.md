@@ -1,4 +1,3 @@
-🛒 Amazon Clone
 A fully responsive Amazon clone built using HTML & CSS. This project replicates the front-end design of Amazon, including the homepage, product listings, and navigation bar.
 
 🚀 Features
